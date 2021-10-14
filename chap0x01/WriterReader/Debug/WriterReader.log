@@ -1,0 +1,6 @@
+﻿  wr.cpp
+D:\操作系统\WriterReader\wr.cpp(65,16): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+D:\操作系统\WriterReader\wr.cpp(73,16): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+D:\操作系统\WriterReader\wr.cpp(90,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+D:\操作系统\WriterReader\wr.cpp(93,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+  WriterReader.vcxproj -> D:\操作系统\WriterReader\Debug\WriterReader.exe
